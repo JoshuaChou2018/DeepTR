@@ -8,7 +8,7 @@ King Abdullah University of Science and Technology, KAUST
 
 <a href='https://www.biorxiv.org/content/10.1101/2023.08.17.553659v1'><img src='https://img.shields.io/badge/Paper-PDF-red'></a>
 
-**The manuscript in under review. Code will be released soon.** 
+**The manuscript is under review. Code will be released soon.** 
 
 ![Figure_1](https://cdn.jsdelivr.net/gh/JoshuaChou2018/oss@main/uPic/ensHtv.Figure_1.png)
 
